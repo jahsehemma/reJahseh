@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jahseh Emma Rubangakene
-- 👀 I’m interested in web development. "Mainly Frontend"
-- 🌱 I’m currently learning JavaScript UI and UX designs
+- 👀 I’m interested in front end web development.
+- 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on simple web development projects
 - 📫 How to reach me ... (Coming soon)
 
